@@ -1,6 +1,6 @@
 # 🔐 Password Generator
 
-A modern and responsive password generator built with HTML, CSS, and JavaScript. It allows users to generate secure passwords based on customizable criteria like length, character type, and more.
+A modern and responsive password generator built with HTML, CSS, and JavaScript. It allows users to generate secure passwords based on customizable criteria like length, character type, etc.
 
 ## 🚀 Features
 
@@ -19,17 +19,18 @@ A modern and responsive password generator built with HTML, CSS, and JavaScript.
 
 ## 💻 How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
+Clone the repository:
 
+git clone https://github.com/HimanshuKumar101/Password-Generator.git
+
+cd password-generator
 
 Open index.html in your browser.
 
-Set the password options (length, character types), click Generate Password, and then Copy it using the button.
+Set the password options (length, character types), click Generate Password, and copy it using the button.
 
 📈 Password Strength Logic
+
 ✅ Strong: Includes uppercase, lowercase, and number/symbol, and is 8+ characters
 
 ⚠️ Medium: At least 2 types and 6+ characters
@@ -44,7 +45,6 @@ Color-coded indicator:
 
 🔴 Red = Weak
 
-
 🔧 Built With
 HTML5
 
@@ -55,7 +55,7 @@ Vanilla JavaScript
 Clipboard API
 
 📌 To-Do / Improvements
- Add light/dark mode toggle
+ Add a light/dark mode toggle
 
  Option to avoid similar characters (e.g., l, 1, I)
 
